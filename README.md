@@ -1,4 +1,4 @@
-#CRM Sales Dashboard for SoftTech
+# CRM Sales Dashboard for SoftTech
 
 I recently built a dynamic Google Sheets dashboard to help track sales opportunities for SoftTech, a computer hardware company. 
 
